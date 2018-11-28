@@ -2,6 +2,7 @@
 solution sets for different problems
 
 Week #1
+
 	tl;dr
 		Watch Week O's lecture [https://video.cs50.net/2017/fall/lectures/0]
 		Program in Scratch
