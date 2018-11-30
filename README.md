@@ -5,8 +5,8 @@ Week #1
 
 	tl;dr
 		Watch Week O's lecture [https://video.cs50.net/2017/fall/lectures/0]
-		Program in Scratch
-		Upload a file
+		Program in Scratch [https://scratch.mit.edu/projects/265693234/]
+		Branch and upload a file [https://github.com/submit50/dvjc]
 		Submit a form
 
 	scratch minimum requirements
